@@ -1,0 +1,12 @@
+{
+  "name": "Function composition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Beecallpaw/Function-Composition.git",
+  "author": "beecallpaw <thapabeecallpaw@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5"
+  }
+}
